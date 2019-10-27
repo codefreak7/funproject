@@ -147,7 +147,7 @@ class App extends React.Component {
       React.createElement("h1", null, "Hello!"),
       React.createElement("h2", null, "Welcome to the internet."),
       React.createElement("p", null, "This is a classic website, no traps or weird stuff!"),
-      React.createElement("p", null, "Feel free to browse, relax and, I don't know, click the button down there? Might as well, right?"),
+      React.createElement("p", null, "Feel free to browse and relax, try to hit the button before the man ctaches you"),
 
       React.createElement("button", {
         className: "debug-button",
